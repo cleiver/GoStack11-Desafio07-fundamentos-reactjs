@@ -1,6 +1,7 @@
-![GoStack Bootcamp](https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png "GoStack Bootcamp")
+![Screenshot](GoFinances.png)
 
-# [Challenge 07 - ReactJS Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)
+
+# [Challenge 07 - ReactJS Fundamentals - GoFinances](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)
 
 In this challenge you must continue to develop the finance application, training what you've learned so far on Node and TypeScript, but this time including database with TypeORM and file upload using Multer.
 
